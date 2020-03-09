@@ -1,2 +1,3 @@
 # Code2020
-Codes for undergraduate students
+仅限毕设学生和实验室同学使用
+代码适用于Comsol 5.4及以上版本 
